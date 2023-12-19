@@ -1,35 +1,29 @@
-# ecommerce-basic
+E-Commerce Web App
 
-**E-Commerce Web App**
+Description: This E-Commerce web application is designed to deliver a seamless shopping experience to users. It is crafted using HTML, CSS, and JavaScript for the front-end, while PHP is employed for server-side scripting. The MySQL database is utilized for the storage and management of product details, user information, and order records.
 
-**Overview**
-This is a web-based E-Commerce application developed to provide users with a seamless shopping experience. The app is built using HTML, CSS, JavaScript for the front-end, and PHP for server-side scripting. The MySQL database is used to store and manage product information, user data, and order details.
+Key Features
 
-**Features**
+Product Catalog: Explore a diverse range of products with comprehensive information.
 
-Product Catalog:
-Browse a diverse catalog of products with detailed information.
+User Authentication: A secure authentication system ensures the safety of customer accounts.
 
-User Authentication:
-Secure user authentication system for customer accounts.
+Shopping Cart: Easily add products to the shopping cart and manage items before proceeding to checkout.
 
-Shopping Cart:
-Add products to a shopping cart and manage items before checkout.
+Order Processing: Place orders, track order history, and receive confirmation for each order.
 
-Order Processing:
-Place orders, view order history, and receive order confirmation.
+Admin Dashboard: An admin interface is provided for efficient management of products, orders, and user accounts.
 
-Admin Dashboard:
-Admin interface for managing products, orders, and user accounts.
+Technologies Implemented
+
+Front-End: HTML, CSS, JavaScript
+
+Back-End: PHP
+
+Database: MySQL
 
 
-**Technologies Used**
 
-Front-End:
-HTML, CSS, JavaScript
 
-Back-End:
-PHP
 
-Database:
-MySQL
+
